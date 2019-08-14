@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "910199686352",
+    "firebase_url": "https://finalexamartifacts.firebaseio.com",
+    "project_id": "finalexamartifacts",
+    "storage_bucket": "finalexamartifacts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910199686352:android:80ceaffb2b0caf34",
+        "android_client_info": {
+          "package_name": "com.example.a200429461_finalexamartifacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910199686352-p69eg0pqu0naha6mn3j5f18h6nsvrudl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a200429461_finalexamartifacts",
+            "certificate_hash": "878e530f3f2e7734d4db5f2abd4514d5ea1bd354"
+          }
+        },
+        {
+          "client_id": "910199686352-jppml9bmc8jgmfall5ijkjh4o0scfgar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5Gq4ENPZ-Ya-vEAqhz6VI9MlP7VK0ezE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910199686352-jppml9bmc8jgmfall5ijkjh4o0scfgar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

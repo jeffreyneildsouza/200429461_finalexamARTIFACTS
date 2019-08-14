@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">200429461_finalexamARTIFACTS</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_user_email">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="action_view_cart">View Cart</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_explore">Explore</string>
+    <string name="menu_inventory">My Iventory</string>
+    <string name="menu_upload_item">Upload Item</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_logout">Logout</string>
+
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <string name="Login">Login</string>
+    <string name="title_activity_explore_page">ExplorePage</string>
+    <string name="btnDeleteAccount">Delete Account</string>
+    <string name="btnConfirmDeleteAccount">Confirm Delete Account</string>
+</resources>
